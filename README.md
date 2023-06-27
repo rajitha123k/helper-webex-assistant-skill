@@ -52,7 +52,7 @@ Make sure you include the "Keep this here" portions (it is for legal, and securi
    ```
 2. Open main.py file and replace it with the main.py file present in this github repo at /helper-skill/helper/main.py
 3. Open .env file and leave lines 1-5 as it is and copy line 7-10 from .env.example file present in this repository at helper-skill/.env.example and paste them in your .env file.
-4. You can get your NEWS_API_KEY rom 'https://newsapi.org/account'
+4. You can get your NEWS_API_KEY from [here](https://newsapi.org/account)
 5. WEBVIEW_URL is the public URL which you can get after publishing the meetings-app (Meetings app code is attached with this repo)
 6. Run
    ```
@@ -62,7 +62,7 @@ Make sure you include the "Keep this here" portions (it is for legal, and securi
 ### Installation Steps for Meetings App:
 1. Run 
    ```
-   npm init
+   npm install
    ```
 2. Create a file named .env and paste the contents from .env.example file located at meetings-app/.env.example
 3. Run 
