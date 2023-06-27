@@ -101,12 +101,10 @@ async def weather(current_state: DialogueState,  query: str) -> DialogueState:
 
     return new_state
 
-@api.handle(pattern=r'.*\sbookings\s?.*')
-async def turn_on(current_state: DialogueState,  query: str) -> DialogueState:
+@api.handle(pattern=r'.*\smeetings\s?.*')
+async def meetings(current_state: DialogueState,  query: str) -> DialogueState:
     print(current_state)
     new_state = current_state.copy()
-
-    access_token=os.getenv('WEBEX_ACCESS_TOKEN')
     
     text = 'Ok, showing todays headlines.'
     new_state.directives = [
