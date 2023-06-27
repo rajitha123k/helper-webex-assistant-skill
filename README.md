@@ -70,7 +70,7 @@ Make sure you include the "Keep this here" portions (it is for legal, and securi
    npm start
    ```
 
-Now your skill can be tested on your devices, for this you will need to register the Skill. A step-by-step guide on creating and editing your Skill can be found in the [Webex Assistant Skills Developer Portal Guide]([https://help.webex.com/en-us/article/n01kjh1/New-user-experience-with-RoomOS-11](https://developer.webex.com/docs/api/guides/webex-assistant-skills-guide-developer-portal-guide))
+Now your skill can be tested on your devices, for this you will need to register the Skill. A step-by-step guide on creating and editing your Skill can be found in the [Webex Assistant Skills Developer Portal Guide](https://developer.webex.com/docs/api/guides/webex-assistant-skills-guide-developer-portal-guide)
  
 ## License
 <!-- MAKE SURE an MIT license is included in your Repository. If another license is needed, verify with management. This is for legal reasons.--> 
