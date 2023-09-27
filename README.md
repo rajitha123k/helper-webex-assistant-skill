@@ -35,6 +35,14 @@ Make sure you include the "Keep this here" portions (it is for legal, and securi
 
 # Webex Assistant Helper Skill
 
+Helper is a Webex Assistant Skill, which on trigger provides day's news headlines, weather in a specific area and device booking details.
+
+<p align="center">
+   <a href="https://app.vidcast.io/share/fb372958-c5e6-4cf0-82fd-3605492c6c43" target="_blank">
+       <img src="helper-image.png" alt="azure-group-sync-demo" />
+    </a>
+</p>
+
 ## Setup
 
 ### Prerequisites & Dependencies: 
